@@ -1,3 +1,4 @@
-Welcome to the data-analysis wiki!
+# Welcome to the data-analysis wiki!
 
-Purpose of this wiki
+
+## Purpose of this wiki
