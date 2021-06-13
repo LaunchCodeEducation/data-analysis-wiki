@@ -7,7 +7,7 @@ Students will be looking to instructors, TFs, and the curriculum for knowledge a
 ## Stand By the Curriculum
 Help LaunchCode make the course better and maintain the students' trust in the curriculum by following these rules:
 * Please send feedback, suggestions, and bug reports to a LaunchCode staff member
-    * [Reporting Issues](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Course-Overview-and-Structure#Bug-and-Issue-Reporting)
+    * [Reporting Issues](https://github.com/LaunchCodeEducation/data-analysis/wiki/Course-Overview-and-Structure#Bug-and-Issue-Reporting)
 * Do not speak negatively of the curriculum in front of the students
 * Do not teach topics or tools that are not in the curriculum
   * It's OK to mention other topics or tools to enrich the students, but these should not be done in place of the established lesson plans

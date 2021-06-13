@@ -27,7 +27,7 @@ Early in the class student work is stored in *repl.it*, while later in the class
 # Grading
 
 ## Solutions
-[The solutions repository](https://gitlab.com/LaunchCodeEducation/lc101-solutions-unit1/-/tree/csharp) on gitlab.com contains solutions for graded assignments,
+[The solutions repository](https://gitlab.com/LaunchCodeEducation/data-analysis) on gitlab.com contains solutions for graded assignments,
 studios, and some of the exercises. Ask a LaunchCode staff member to add you to the repository.
 
 ## Attendance
@@ -46,4 +46,4 @@ Graded assignment scores are recorded in Canvas.
    1. If the solution comes with a rubric, use the rubric to double check that the student's solution meets all of the requirements. If something is missing, do NOT use the rubric as feedback. Tell the student directly what elements are missing.
 1. Enter grade in Canvas
    1. If the code meets the requirements, then mark the assignment complete in Canvas
-   1. More about feedback in the [feedback section](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/wiki/Grading-and-Student-Progress#feedback)
+   1. More about feedback in the [feedback section](https://github.com/LaunchCodeEducation/data-analysis/wiki/Grading-and-Student-Progress#feedback)

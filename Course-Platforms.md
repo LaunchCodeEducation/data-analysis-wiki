@@ -11,7 +11,7 @@
 
 ## Course Book
 * The [Data Analysis](https://education.launchcode.org/data-analysis/) contains the chapters to be read, exercises, studio, and assignments.
-* The book is open source, please create github issues on the [github repo](https://github.com/LaunchCodeEducation/intro-to-programming-csharp/issues) to provide direct feedback.
+* The book is open source, please create github issues on the [github repo](https://github.com/LaunchCodeEducation/data-analysis/issues) to provide direct feedback.
 
 ## Repl.it
 * [Repl.it](https://replit.com/) is an online code editor and code executing environment.
@@ -34,6 +34,6 @@
 
 ## Student Tutorials
 The online course book contains short tutorials for the students on how to use Canvas and repl.it.
-* [Introduction to Canvas](https://education.launchcode.org/intro-to-programming-csharp/chapters/introduction/class-platforms.html)
-* [Introduction to repl.it](https://education.launchcode.org/intro-to-programming-csharp/chapters/introduction/class-platforms.html#repl-it)
-* [Creating a replit.com account](https://education.launchcode.org/intro-to-programming-csharp/chapters/how-programs-work/hello-world.html#create-a-repl-it-account)
+* [Introduction to Canvas](https://education.launchcode.org/data-analysis/chapters/introduction/class-platforms.html)
+* [Introduction to repl.it](https://education.launchcode.org/data-analysis/chapters/introduction/class-platforms.html#repl-it)
+* [Creating a replit.com account](https://education.launchcode.org/data-analysis/chapters/how-programs-work/hello-world.html#create-a-repl-it-account)
