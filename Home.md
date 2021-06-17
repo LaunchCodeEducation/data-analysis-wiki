@@ -15,3 +15,5 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/data-analysis-
 * [Bug and Issue Reporting](https://github.com/LaunchCodeEducation/data-analysis/wiki/Course-Overview-and-Structure#Bug-and-Issue-Reporting)
 
 ## Lesson Specific Guides
+
+* [Lesson 3 - Errors and Debugging](https://github.com/LaunchCodeEducation/data-analysis/wiki/Lesson-3-(Errors-&-Debugging))
