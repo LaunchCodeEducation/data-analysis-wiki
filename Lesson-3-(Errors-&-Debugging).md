@@ -21,5 +21,5 @@
 
 ## Studio (TF Notes)
 
-1. The studio has students work through bugs slowly. This would be a good studio to have students pair up and talk through the steps together.
+1. The studio has students work through bugs step-by-step. This would be a good studio to have students pair up and talk through the steps together.
 1. Show students your process when working through a bug. Talk about why and how your process works for you!
