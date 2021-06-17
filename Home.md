@@ -16,5 +16,5 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/data-analysis-
 
 ## Lesson Specific Guides
 
-* [Lesson 1 - Booleans, Conditionals, and Control Flow](https://github.com/LaunchCodeEducation/intro-to-professional-web-dev/wiki/Lesson-1-(Booleans-Conditionals-Loops))
+* [Lesson 1 - Booleans, Conditionals, and Control Flow](https://github.com/LaunchCodeEducation/data-analysis/wiki/Lesson-1-(Booleans-Conditionals-Loops))
 * [Lesson 3 - Errors and Debugging](https://github.com/LaunchCodeEducation/data-analysis/wiki/Lesson-3-(Errors-&-Debugging))
