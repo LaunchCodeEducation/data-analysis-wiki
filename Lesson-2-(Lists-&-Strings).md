@@ -4,8 +4,8 @@
 
 1. What strings and lists represent and that strings are _immutable_.
 1. How to use bracket notation to:
-   1. Index into a string or array.
-   1. Update array elements.
+   1. Index into a string or list.
+   1. Update list elements.
 1. [Common string methods](https://education.launchcode.org/data-analysis/chapters/strings/string-methods.html#common-string-methods) and [Common list methods](https://education.launchcode.org/data-analysis/chapters/lists/list-methods.html#common-list-methods).
 1. How to use template literals and how to include newlines (``\n``) and tabs (``\t``) in ``print`` output.
 1. How to create and access a multi-dimensional list.
