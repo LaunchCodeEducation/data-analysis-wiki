@@ -28,4 +28,4 @@
 ### Lesson 4 Studio
 1. Reminder: the studio is broken into parts for a reason! Many students may read the initial paragraph and want to jump right in, but that would be doing themselves a disservice.
 1. This is a problem that is possible with an inefficient, brute force solution. Encourage students who take that route to take a step back and seek out a more elegant solution.
-1. Students should access the studio via repl.it, NOT the online textbook.
+1. Students should access the studio via Canvas.
