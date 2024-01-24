@@ -13,4 +13,4 @@ git fetch origin
 git merge main --no-edit
 git fetch upstream
 git merge upstream/master --no-edit
-git push upstream master
+git push upstream main:master
