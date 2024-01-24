@@ -12,5 +12,5 @@ git checkout main
 git fetch origin
 git merge main --no-edit
 git fetch upstream
-git merge upstream/main --no-edit
-git push upstream main
+git merge upstream/master --no-edit
+git push upstream master
