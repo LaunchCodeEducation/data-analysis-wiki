@@ -22,3 +22,4 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/data-analysis-
 * [Lesson 4 - Functions](https://github.com/LaunchCodeEducation/data-analysis/wiki/Lesson-4-(Functions))
 * [Lesson 5 - Dictionaries and Other Collections](https://github.com/LaunchCodeEducation/data-analysis/wiki/Lesson-5-(Dictionaries))
 *  [Lesson 6 - Classes and Objects](https://github.com/LaunchCodeEducation/data-analysis/wiki/Lesson-6-(Classes-&-Objects))
+* [Lesson 7 - Object-Oriented Programming](https://github.com/LaunchCodeEducation/data-analysis/wiki/Lesson-7-(OOP))
