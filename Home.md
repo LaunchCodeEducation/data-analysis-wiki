@@ -16,8 +16,8 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/data-analysis-
 
 ## Lesson Specific Guides
 
-* [Cleaning Data with Spreadsheets]()
 * [EDA with Spreadsheets](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/EDA-Spreadsheets)
+* [Cleaning Data with Spreadsheets](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Cleaning-Spreadsheets)
 * [Lesson 1 - Booleans, Conditionals, and Control Flow](https://github.com/LaunchCodeEducation/data-analysis/wiki/Lesson-1-(Booleans-Conditionals-Loops))
 * [Lesson 2 - Lists and Strings](https://github.com/LaunchCodeEducation/data-analysis/wiki/Lesson-2-(Lists-&-Strings))
 * [Lesson 3 - Errors and Debugging](https://github.com/LaunchCodeEducation/data-analysis/wiki/Lesson-3-(Errors-&-Debugging))
