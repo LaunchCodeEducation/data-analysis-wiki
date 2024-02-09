@@ -26,3 +26,5 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/data-analysis-
 * [Lesson 7 - Object-Oriented Programming](https://github.com/LaunchCodeEducation/data-analysis/wiki/Lesson-7-(OOP))
 
 ## Assignments
+
+* [Assignment 0 - Hello Google Sheets!](https://github.com/LaunchCodeEducation/data-analysis/wiki/assignment0)
