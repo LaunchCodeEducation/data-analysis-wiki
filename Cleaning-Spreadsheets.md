@@ -2,7 +2,7 @@
 
 ## In the prep work for this class, the students learned:
 
-1. What Cleaning data is.
+1. What cleaning data is.
 1. What common techniques are used to clean data.
 1. How to apply filters, formatting, remove redundant data, and useful functions to clean data.
 1. The four types of dirty data
