@@ -27,4 +27,5 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/data-analysis-
 
 ## Assignments
 
-* [Assignment 0 - Hello Google Sheets!](https://github.com/LaunchCodeEducation/data-analysis/wiki/assignment0)
+* [Assignment 0 - Hello Google Sheets!](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/assignment0)
+* [Assignment 1 - Fintech Fun](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-1-Fintech-Fun)
