@@ -19,8 +19,6 @@ There are no exercises or studio for this chapter in particular, howeverw, there
 
 ### Topics That Require Careful Attention
 1. Q & A from the prep work and/or exercises.
-   1. Recommend walking through the exercises since the studio covers the same dataset.
-1. Review the data cleaning techniques and apply any additional strategies not used in the book.
 1. Focus on Python as a language and why it is commonly used for data analysis.
 1. Clarify any confusion around git and GitHub:
 - forking a repository
