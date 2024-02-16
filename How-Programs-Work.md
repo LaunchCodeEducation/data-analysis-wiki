@@ -1,6 +1,6 @@
 # How Programs Work
 
-There are no exercises or studio for this chapter in particular, howeverw, there will be associated exercises and studio for this lesson from chapters 8 and 9.
+There are no exercises or studio for this chapter in particular, however, there will be associated exercises and studio for this lesson from chapters 8 and 9.
 
 ## In the prep work for this class, the students learned:
 
