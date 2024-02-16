@@ -8,7 +8,7 @@ There are no exercises or studio for this chapter in particular, however, there 
 1. What a programming language is.
 1. Different types of programming languages
 1. How to run a program and view it's output in the console
-1. How to set up the necessary coding tools including python, visual studio code, and GitHub.
+1. How to set up the necessary coding tools including Python, Visual Studio Code, and GitHub.
 1. Basic terminal navigation
 1. Basic git skills
 
