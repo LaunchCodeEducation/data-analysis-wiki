@@ -18,8 +18,9 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/data-analysis-
 
 * [EDA with Spreadsheets](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/EDA-Spreadsheets)
 * [Cleaning Data with Spreadsheets](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Cleaning-Spreadsheets)
-* [How Programs Work](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/How-Programs-Work)
+* [How Programs Work + How to Write and run Code](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/How-Programs-Work)
 * [How to Write and run Code](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/How-to-Write-Code)
+* [Data and Variables](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Data-and-Variables)
 * [Control Flow](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Control-Flow)
 * [Lesson 2 - Lists and Strings](https://github.com/LaunchCodeEducation/data-analysis/wiki/Lesson-2-(Lists-&-Strings))
 * [Lesson 3 - Errors and Debugging](https://github.com/LaunchCodeEducation/data-analysis/wiki/Lesson-3-(Errors-&-Debugging))
