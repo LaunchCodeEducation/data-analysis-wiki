@@ -1,4 +1,4 @@
-# Lesson 4: Functions
+# Functions
 
 ## In the prep work this week, the students learned:
 1. What a function is.
@@ -10,11 +10,10 @@
 
 ## Announcements
 1. Check with your class Candidate Engagement Manager for any announcements!
-1. Remind students of the due date for the first assignment.
 
 ## Large Group Time (Instructor)
 
-### Lesson 4 Topics That Require Careful Attention
+### Lesson Topics That Require Careful Attention
 1. Conversation starters:
    1. In a student's own words, can they explain what a function is?
 1. When is ``undefined`` returned?
@@ -25,7 +24,7 @@
 
 ## Studio (TF Notes)
 
-### Lesson 4 Studio
+### Lesson Studio
 1. Reminder: the studio is broken into parts for a reason! Many students may read the initial paragraph and want to jump right in, but that would be doing themselves a disservice.
 1. This is a problem that is possible with an inefficient, brute force solution. Encourage students who take that route to take a step back and seek out a more elegant solution.
 1. Students should access the studio via Canvas.
