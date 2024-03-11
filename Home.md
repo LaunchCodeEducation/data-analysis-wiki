@@ -22,6 +22,7 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/data-analysis-
 * [How to Write and run Code](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/How-to-Write-Code)
 * [Data and Variables](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Data-and-Variables)
 * [Control Flow](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Control-Flow)
+* [Collections](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Collections)
 * [Lesson 2 - Lists and Strings](https://github.com/LaunchCodeEducation/data-analysis/wiki/Lesson-2-(Lists-&-Strings))
 * [Functions](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Functions)
 * [Lesson 3 - Errors and Debugging](https://github.com/LaunchCodeEducation/data-analysis/wiki/Lesson-3-(Errors-&-Debugging))
