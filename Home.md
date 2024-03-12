@@ -22,9 +22,10 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/data-analysis-
 * [How to Write and run Code](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/How-to-Write-Code)
 * [Data and Variables](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Data-and-Variables)
 * [Control Flow](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Control-Flow)
+* [Collections](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Collections)
 * [Lesson 2 - Lists and Strings](https://github.com/LaunchCodeEducation/data-analysis/wiki/Lesson-2-(Lists-&-Strings))
 * [Functions](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Functions)
-* [Lesson 3 - Errors and Debugging](https://github.com/LaunchCodeEducation/data-analysis/wiki/Lesson-3-(Errors-&-Debugging))
+* [Cleaning Data with Pandas](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Cleaning-Pandas)
 * [Lesson 5 - Dictionaries and Other Collections](https://github.com/LaunchCodeEducation/data-analysis/wiki/Lesson-5-(Dictionaries))
 *  [Lesson 6 - Classes and Objects](https://github.com/LaunchCodeEducation/data-analysis/wiki/Lesson-6-(Classes-&-Objects))
 * [Lesson 7 - Object-Oriented Programming](https://github.com/LaunchCodeEducation/data-analysis/wiki/Lesson-7-(OOP))
@@ -33,4 +34,5 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/data-analysis-
 
 * [Assignment 0 - Hello Google Sheets!](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/assignment0)
 * [Assignment 1 - Fintech Fun](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-1-Fintech-Fun)
+* [Assignment 4 - Checkpoint 1](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-4-Checkpoint-1)
 * [Assignment 4 - Checkpoint 3](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-4-Checkpoint-3)
