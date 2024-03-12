@@ -34,3 +34,4 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/data-analysis-
 
 * [Assignment 0 - Hello Google Sheets!](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/assignment0)
 * [Assignment 1 - Fintech Fun](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-1-Fintech-Fun)
+* [Assignment 4 - Checkpoint 1](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-4-Checkpoint-1)
