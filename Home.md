@@ -25,7 +25,7 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/data-analysis-
 * [Collections](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Collections)
 * [Lesson 2 - Lists and Strings](https://github.com/LaunchCodeEducation/data-analysis/wiki/Lesson-2-(Lists-&-Strings))
 * [Functions](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Functions)
-* [Lesson 3 - Errors and Debugging](https://github.com/LaunchCodeEducation/data-analysis/wiki/Lesson-3-(Errors-&-Debugging))
+* [Cleaning Data with Pandas](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Cleaning-Pandas)
 * [Lesson 5 - Dictionaries and Other Collections](https://github.com/LaunchCodeEducation/data-analysis/wiki/Lesson-5-(Dictionaries))
 *  [Lesson 6 - Classes and Objects](https://github.com/LaunchCodeEducation/data-analysis/wiki/Lesson-6-(Classes-&-Objects))
 * [Lesson 7 - Object-Oriented Programming](https://github.com/LaunchCodeEducation/data-analysis/wiki/Lesson-7-(OOP))
