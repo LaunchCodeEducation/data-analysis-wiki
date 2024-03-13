@@ -28,4 +28,3 @@
 
 1. Students may have issues importing their dataset once into jupyter notebooks once it is downloaded.
     - They may be inputting the incorrect file path or have it stored in the incorrect location. Double check this with any learners having issues
-1.
