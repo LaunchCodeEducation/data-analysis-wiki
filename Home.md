@@ -26,6 +26,7 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/data-analysis-
 * [Functions](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Functions)
 * [Exploratory Data Analysis with pandas](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/EDA-with-pandas)
 * [Cleaning Data with Pandas](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Cleaning-Pandas)
+* [Data Manipulation](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Data-Manipulation)
 * [Data Visualization with Python](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Data-Viz-Python)
 
 ## Assignments
