@@ -2,7 +2,7 @@
 
 For this assignment, students use Jupyter notebooks to explore, clean, manipulate, and visualize data from two separate datasets.
 
-They are submitting their github repository link from the forked github repo located within the assignment instructions.
+They are submitting their GitHub repository link from the forked repo located within the assignment instructions.
 
 1. Each Task has associated questions that they are expected to provide an answer for. Some of the questions are subjective and may require input from them on why they responded the way they did.
 
