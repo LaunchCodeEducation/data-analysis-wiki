@@ -1,6 +1,6 @@
 # Assignment 2: Call Center Cleanup
 
-For this assignment, students use jupyter notebooks to explore, clean, manipulate, and visualize data from two separate datasets.
+For this assignment, students use Jupyter notebooks to explore, clean, manipulate, and visualize data from two separate datasets.
 
 They are submitting their github repository link from the forked github repo located within the assignment instructions.
 
