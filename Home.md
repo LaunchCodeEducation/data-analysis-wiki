@@ -28,6 +28,7 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/data-analysis-
 * [Cleaning Data with Pandas](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Cleaning-Pandas)
 * [Data Manipulation](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Data-Manipulation)
 * [Data Visualization with Python](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Data-Viz-Python)
+* [SQL Part 3](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/SQL-Part-3)
 
 ## Assignments
 
