@@ -16,6 +16,7 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/data-analysis-
 
 ## Lesson Specific Guides
 
+* [Introduction to Data](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Introduction-to-Data)
 * [EDA with Spreadsheets](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/EDA-Spreadsheets)
 * [Cleaning Data with Spreadsheets](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Cleaning-Spreadsheets)
 * [How Programs Work + How to Write and run Code](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/How-Programs-Work)
