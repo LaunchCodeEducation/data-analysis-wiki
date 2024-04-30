@@ -31,6 +31,7 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/data-analysis-
 * [Data Visualization with Python](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Data-Viz-Python)
 * [SQL Part 1](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/SQL-Part-1)
 * [SQL Part 2](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/SQL-Part-2)
+* [SQL Part 3](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/SQL-Part-3)
 
 ## Assignments
 
