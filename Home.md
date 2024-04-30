@@ -38,4 +38,5 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/data-analysis-
 * [Assignment 1 - Fintech Fun](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-1-Fintech-Fun)
 * [Assignment 2 - Call Center Cleanup](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-2-Call-Center-Cleanup)
 * [Assignment 4 - Checkpoint 1](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-4-Checkpoint-1)
+* [Assignment 4 - Checkpoint 2](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-4-Checkpoint-2)
 * [Assignment 4 - Checkpoint 3](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-4-Checkpoint-3)
