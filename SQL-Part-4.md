@@ -5,7 +5,7 @@
 1. What subqueries are and how they are structured.
 1. Differences between correlated and non-correlated subqueries.
 1. Differences between subqueries and nested-subqueries.
-1. Differences between `UNION`, `INTERSECT`, `EXCEPT`.
+1. Differences between `UNION`, `INTERSECT`, and `EXCEPT`.
 
 ## Announcements
 1. Always check with your program manager to see if there are any upcoming deadlines you should highlight!
