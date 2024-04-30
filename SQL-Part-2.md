@@ -2,7 +2,7 @@
 
 ## In the prep work for this class, the students learned:
 
-1. What string functions are available and how to structure `SELECT` ueries with them.
+1. What string functions are available and how to structure `SELECT` queries with them.
 1. What date and time functions are available and how to structure `SELECT` queries with them.
 1. What aggregate functions are available and how to structure `SELECT` queries with them.
 
