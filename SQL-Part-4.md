@@ -19,4 +19,4 @@
 
 ## Studio (IA Notes)
 
-1. Students will be working with the `BooksDB` dataset from lesson 10. They should already have access to this but ensure they have the necessary permissions to perform queries against the database!
+1. Students will be working with the `BooksDB` dataset from previous lessons. They should already have access to this but ensure they have the necessary permissions to perform queries against the database!
