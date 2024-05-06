@@ -16,6 +16,7 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/data-analysis-
 
 ## Lesson Specific Guides
 
+* [Introduction to Data](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Introduction-to-Data)
 * [EDA with Spreadsheets](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/EDA-Spreadsheets)
 * [Cleaning Data with Spreadsheets](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Cleaning-Spreadsheets)
 * [How Programs Work + How to Write and run Code](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/How-Programs-Work)
@@ -28,11 +29,16 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/data-analysis-
 * [Cleaning Data with Pandas](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Cleaning-Pandas)
 * [Data Manipulation](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Data-Manipulation)
 * [Data Visualization with Python](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Data-Viz-Python)
+* [SQL Part 1](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/SQL-Part-1)
 * [SQL Part 2](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/SQL-Part-2)
+* [SQL Part 3](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/SQL-Part-3)
 * [SQL Part 4](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/SQL-Part-4)
+
 ## Assignments
 
 * [Assignment 0 - Hello Google Sheets!](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/assignment0)
 * [Assignment 1 - Fintech Fun](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-1-Fintech-Fun)
+* [Assignment 2 - Call Center Cleanup](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-2-Call-Center-Cleanup)
 * [Assignment 4 - Checkpoint 1](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-4-Checkpoint-1)
+* [Assignment 4 - Checkpoint 2](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-4-Checkpoint-2)
 * [Assignment 4 - Checkpoint 3](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-4-Checkpoint-3)
