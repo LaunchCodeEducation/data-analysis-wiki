@@ -2,7 +2,7 @@
 
 ## In the prep work for this class, the students learned:
 
-1. What string functions are available and how to structure `SELECT` ueries with them.
+1. What string functions are available and how to structure `SELECT` queries with them.
 1. What date and time functions are available and how to structure `SELECT` queries with them.
 1. What aggregate functions are available and how to structure `SELECT` queries with them.
 
@@ -17,4 +17,4 @@
 
 ## Studio (IA Notes)
 
-1. Students will be working with the `BooksDB` dataset from lesson 10. They should already have access to this but ensure they have the necessary permissions to perform queries against the database!
+1. Students will be working with the `BooksDB` dataset from the previous lesson. They should already have access to this but ensure they have the necessary permissions to perform queries against the database!
