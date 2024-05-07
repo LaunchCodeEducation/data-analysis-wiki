@@ -33,6 +33,7 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/data-analysis-
 * [SQL Part 2](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/SQL-Part-2)
 * [SQL Part 3](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/SQL-Part-3)
 * [SQL Part 4](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/SQL-Part-4)
+* [Databases with Python and pandas](https://github.com/LaunchCodeEducation/data-analysis-curriculum/Databases-Python-Pandas)
 
 ## Assignments
 
