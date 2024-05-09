@@ -43,3 +43,4 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/data-analysis-
 * [Assignment 4 - Checkpoint 1](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-4-Checkpoint-1)
 * [Assignment 4 - Checkpoint 2](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-4-Checkpoint-2)
 * [Assignment 4 - Checkpoint 3](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-4-Checkpoint-3)
+* [Assignment 4 - Checkpoint 4](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-4-Checkpoint-4)
