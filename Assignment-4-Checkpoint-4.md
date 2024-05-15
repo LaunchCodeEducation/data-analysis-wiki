@@ -4,7 +4,7 @@ For the fourth checkpoint, students are manipulating data and producing a Tablea
 
 Students are given the choice of manipulating data using pandas in conjunction with a Jupyter Notebook, if they decide to go this route make sure they do the folloiwng:
 1. Add code comments explaining thought process
-1. Push work to github
+1. Push work to GitHub
 1. Regardless of visualizations are added to the story, all captions should include explanations
 1. The first caption should include a link to the dataset
 1. The final story point should include links to any supporting materials
