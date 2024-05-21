@@ -32,7 +32,9 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/data-analysis-
 * [SQL Part 1](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/SQL-Part-1)
 * [SQL Part 2](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/SQL-Part-2)
 * [SQL Part 3](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/SQL-Part-3)
+* [SQL Part 4](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/SQL-Part-4)
 * [SQL Part 5](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/SQL-Part-5)
+* [Databases with Python and pandas](https://github.com/LaunchCodeEducation/data-analysis-curriculum/Databases-Python-Pandas)
 
 ## Assignments
 
@@ -42,3 +44,4 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/data-analysis-
 * [Assignment 4 - Checkpoint 1](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-4-Checkpoint-1)
 * [Assignment 4 - Checkpoint 2](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-4-Checkpoint-2)
 * [Assignment 4 - Checkpoint 3](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-4-Checkpoint-3)
+* [Assignment 4 - Checkpoint 4](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-4-Checkpoint-4)
