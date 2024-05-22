@@ -2,11 +2,7 @@
 
 ## Blended Learning
 
-The course is delivered using a combination of online tasks, face-to-face instruction, small peer group time, and programming assignments. The varied delivery is meant to reinforce the concepts by accommodating different learning styles.
-
-## Flipped Classroom Model
-
-Most of the traditional instruction will be done at home via online reading and exercises. In class time will be spent reviewing concepts, answering questions, walking through live-coding examples, and working on small programming tasks called studios.
+The course is delivered using a combination of online tasks, face-to-face instruction, small peer group time, and programming assignments. The varied delivery is meant to reinforce the concepts by accommodating different learning styles. The day's concepts and objectives will be introduced at home via online reading and exercises. In-class time will be spent reviewing concepts, answering questions, walking through live-coding examples, and working on small programming tasks called studios.
 
 ## Course Goals
 
@@ -14,9 +10,11 @@ Teach students, from wide ranging backgrounds, these topics:
 
 * Learn how to learn (learning mindset)
 * Problem solving skills
+* How to use spreadsheets in data analysis projects
 * Basic programming using Python
 * Introduction to databases in SQL
-* Importing, cleaning, performing exploratory data analysis, and reporting with visualizations.
+* Importing, cleaning, performing exploratory data analysis, and reporting with visualizations made in Tableau
+* Introduction to statistical modeling
 
 This content is meant to be a start and not the finish. With these skills students can proceed into more complex areas.
 
@@ -33,25 +31,25 @@ This content is meant to be a start and not the finish. With these skills studen
   * Class discussion and review of exercises as needed
 * Studio
   * Students separate into assigned groups
-  * Group work with ta check-ins
+  * Group work with IA check-ins
   * Designed to be **safe practice time** for students with support
   * Class discussion and review as needed
 * Assignments
   * Completed independently
   * Graded assignments for which students are given multiple weeks to complete
-  * Typically worked on outside of class, unless provided "open working time" by TA
+  * Typically worked on outside of class, unless provided "open working time" by IA
 
 # Tasks and Responsibilities
-Instructors and tas are crucial to the success of the students. These tasks help ensure that everyone knows
+Course staff members are crucial to the success of the students. These tasks help ensure that everyone knows
 their role in the process.
 
 ## Instructors
 
 * Report Issues to LaunchCode (LC) staff
-  * Contact LC staff by Slack, email, or phone.
+  * Contact LC staff by Discord or email.
   * LC staff needs to know about issues with: students, tas, facilities, curriculum, course tools
     * [For issues requiring changes to the curriculum material, including bugs](https://github.com/LaunchCodeEducation/data-analysis/wiki/Course-Overview-and-Structure#Bug-and-Issue-Reporting)
-* Facilitate large group(full class) activities
+* Facilitate large group (full class) activities
   * Examples
     * What to review/demo in primary instruction
     * Decide whether to bring the class back together after studio time
@@ -60,11 +58,11 @@ their role in the process.
   * Look for signs of students struggling and falling behind
   * Use feedback from students and tas to determine how to cover the topic more effectively.
   * Adjust examples and descriptions of topics as needed.
-* Manage and coach TAs
+* Manage and coach IAs
 
-## Teaching Assistants (TAs)
+## Instructional Assistants (IAs)
 
-TAs will be assigned a group of students to guide.
+IAs will be assigned a group of students to guide.
 
 * Assist individual students
   * Check on each student in your group at least once every class
@@ -84,14 +82,14 @@ TAs will be assigned a group of students to guide.
 ## Students
 
 * Pay attention to assignments in Canvas
-* Do the prep work **during alloted class time**
+* Do the prep work
 * Attend class and participate in activities
 * Turn in graded assignments on time
 * Do their own work
 
 ## Bug and Issue Reporting
 
-Students should notify their TA or instructor of any issues they find in course materials (typos, bugs, etc). Course staff should assess the issue and gather as much info as possible. If the issue is indeed with course materials (some student concerns are the result of misreadings, bad student code, etc) then then they should raise the issue with the Education Team. To submit an issue, do one of the following:
+Students should notify their IA or instructor of any issues they find in course materials (typos, bugs, etc). Course staff should assess the issue and gather as much info as possible. If the issue is indeed with course materials (some student concerns are the result of misreadings, bad student code, etc) then they should raise the issue with the TechEd Team. To submit an issue, do one of the following:
 
-- Email the Ed Team at education@launchcode.org
-- Create a [new issue on GitHub](https://github.com/LaunchCodeEducation/data-analysis/issues)
+- Email the TechEd Team at education@launchcode.org
+- Create a [new issue on GitHub](https://github.com/LaunchCodeEducation/data-analysis-curriculum/issues)
