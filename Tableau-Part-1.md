@@ -11,7 +11,7 @@
 
 ## Large Group Time (Instructor)
 1. Any additional tips or tricks when navigating a Tableau public workspace would be excellent!
-1. Data Types were covered in addition to how mixed data types are sometimes interpreted. Additional context on why it is important to have clean data before you begin visualization would be worth highlighting.
+1. Data types were covered in addition to how mixed data types are sometimes interpreted. Additional context on why it is important to have clean data before you begin visualization would be worth highlighting.
 
 ### Topics That Require Careful Attention
 1. Saving your work (publishing)
