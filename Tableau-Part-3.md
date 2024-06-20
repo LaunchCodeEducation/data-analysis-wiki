@@ -2,7 +2,7 @@
 
 ## In the prep work for this class, the students learned:
 
-1. How to create basic and table calculations
+1. How to create table calculations
 1. How to create parameters
 1. How to create a new relationship between two tables
 
