@@ -33,8 +33,9 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/data-analysis-
 * [SQL Part 4](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/SQL-Part-4)
 * [SQL Part 5](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/SQL-Part-5)
 * [Databases with Python and pandas](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Databases-Python-Pandas)
-* [Introduction to Visualization with Tableau](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Tableau-Part-1)
+* [Tableau Part 1](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Tableau-Part-1)
 * [Tableau Part 2](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Tableau-Part-2)
+* [Tableau Part 3](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Tableau-Part-3)
 
 ## Assignments
 
