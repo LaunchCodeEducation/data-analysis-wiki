@@ -3,7 +3,7 @@
 ## In the prep work for this class, the students learned:
 1. How to navigate the Tableau workspace
 1. How to connect to data
-1. An understanding of Tableau Data Types and how mixed data is handled
+1. An understanding of Tableau data types and how mixed data is handled
 1. How to create a dashboard
 
 ## Announcements
