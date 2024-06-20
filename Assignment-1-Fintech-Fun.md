@@ -23,6 +23,8 @@ If they have submitted all their work, you should look for the following in the 
    1. If it did not work out, did they share what happened and an idea as to why? For example, if they tried a chart style and couldn't get it to work, do they have an idea as to why?
 1. Grounding their results in their work. For example, if they think the repayment plan is too dirty and therefore is inaccurate, do they share why they believe that to be the case?
 
+**Note for the May 2024 class**: Based on the phrasing of some questions, some students may just answer with a yes or no. Since we did not specify for those questions that they should go beyond a simple yes or no, you may need to be more lenient.
+
 If you see these items in their final report, then go ahead and give them some feedback and a passing grade!
 
 ## Feedback and Grades
