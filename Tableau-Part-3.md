@@ -18,5 +18,5 @@
 1. Relationships: This was covered as they were asked to create one during the exercises. It is probably worth talking about what is actually happening behind the scenes when a relationship is created. We tried to include as much detail as we could without going too far out of scope here.
 
 ## Studio (IA Notes)
-1. Learners also have to createa relationship for the studio.
+1. Learners also have to create a relationship for the studio.
 1. They perform EDA, create calculations, and parameters. They also rename titles and labels on their charts to provide additional clarity when presenting their findings.
