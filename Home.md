@@ -33,11 +33,14 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/data-analysis-
 * [SQL Part 4](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/SQL-Part-4)
 * [SQL Part 5](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/SQL-Part-5)
 * [Databases with Python and pandas](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Databases-Python-Pandas)
+* [Tableau Part 1](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Tableau-Part-1)
+* [Tableau Part 2](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Tableau-Part-2)
+* [Tableau Part 3](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Tableau-Part-3)
 * [Tableau Part 4](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Tableau-Part-4)
 
 ## Assignments
 
-* [Assignment 0 - Hello Google Sheets!](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/assignment0)
+* [Assignment 0 - Hello Google Sheets!](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-0-Hello-Spreadsheets)
 * [Assignment 1 - Fintech Fun](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-1-Fintech-Fun)
 * [Assignment 2 - Call Center Cleanup](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-2-Call-Center-Cleanup)
 * [Assignment 4 - Checkpoint 1](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-4-Checkpoint-1)
