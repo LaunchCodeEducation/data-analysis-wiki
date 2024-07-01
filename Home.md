@@ -36,6 +36,7 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/data-analysis-
 * [Tableau Part 1](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Tableau-Part-1)
 * [Tableau Part 2](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Tableau-Part-2)
 * [Tableau Part 3](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Tableau-Part-3)
+* [Tableau Part 4](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Tableau-Part-4)
 
 ## Assignments
 
