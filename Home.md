@@ -42,7 +42,8 @@ Fork the [wiki repository](https://github.com/LaunchCodeEducation/data-analysis-
 
 * [Assignment 0 - Hello Google Sheets!](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-0-Hello-Spreadsheets)
 * [Assignment 1 - Fintech Fun](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-1-Fintech-Fun)
-* [Assignment 2 - Call Center Cleanup](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-2-Call-Center-Cleanup)
+* [Assignment 2 - 9 to 5](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-2-9-to-5)
+* [Assignment 3 - Call Center Cleanup](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-3-Call-Center-Cleanup)
 * [Assignment 4 - Checkpoint 1](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-4-Checkpoint-1)
 * [Assignment 4 - Checkpoint 2](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-4-Checkpoint-2)
 * [Assignment 4 - Checkpoint 3](https://github.com/LaunchCodeEducation/data-analysis-curriculum/wiki/Assignment-4-Checkpoint-3)
